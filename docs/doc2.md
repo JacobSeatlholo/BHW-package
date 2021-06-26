@@ -6,7 +6,7 @@ Business Hustle Ltd is a trademark of Simple eternity holdings (PTY) LTD a compa
 
 ## What We Offer
 
-We offer brand consulting, outsourcing of technology services and solutions to organizations, individual brands, startups, SMEs & Non Profit Organisaitons. We bring deep insight and expertise to support leaders of corporate, markerters, creators & influencers.
+We offer brand consulting, outsourcing of technology services and solutions to organizations, individual brands, startups, SMEs & Non Profit Organisaitons. We help bring deep insight and expertise to support leaders of corporate, markerters, creators & influencers.
 
 ## Company Overview
 
@@ -47,10 +47,9 @@ Our goal is to customer demands & circumstances in real-time. We offer data driv
 | Growing     |  Covers all Design Categories, including Social Media Optimization, Brand Identity, and Web/App Design Supports multiple brands 100 hours/month, * 1 dedicated project manager  * A dedicated design team with 2-3 senior designers * 2 dedicated project managers * 24/7 dedicated support * Project Management Application onboarding included   |   R16,200 p/m|
 | Scaling | Includes all Design Categories, including Social Media Optimization, Search Engine Marketing, Brand Identity, and Web/App Design supporting multiple brands. * 380 hours/month, all available for fast turnaround service. * Tailored setup. * 24/7 dedicated support Ability for team to be on standby Custom integrations. * Creative onboarding included   |    R23,400 p/m |
 
-
 ## Automation & AI
 
-**So What is Artificial Intelligence?**
+**What is Artificial Intelligence?**
 
 Artificial intelligence (AI) is the ability of machines to interpret data and act intelligently, this simply means that they can carry out tasks based on data at hand.AI systems have been proven to out perform humans on many aspects. Despite the controversy behind its existence & use, AI still proves to be becoming more affordable to the masses, thus making it a somewhat essential tool for one that seeks increased workflow productivity , process efficiency & omnichannel platforms for their business. 
 
