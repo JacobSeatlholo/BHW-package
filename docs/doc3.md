@@ -18,7 +18,7 @@ title: Project and Task Management
   
 :::note
 
-Ensure accuracy and efficiency. The application is compatible with all devices. 
+Ensure accuracy and efficiency.  
 
 :::
 
