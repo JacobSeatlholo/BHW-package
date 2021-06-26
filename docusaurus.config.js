@@ -27,9 +27,9 @@ module.exports = {
            position: 'right',
          },{to: 'blog', label: 'Our Story', position: 'left'},
          {
-           ,
+           
          
-        },
+        
       ],
     },
     footer: {
