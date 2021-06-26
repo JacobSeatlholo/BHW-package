@@ -22,7 +22,7 @@ module.exports = {
          },
          {to: 'blog', label: 'Updates', position: 'left'},
          {
-           href: 'https://github.com/facebook/docusaurus',
+           href: 'https://businesshustleworldwideltd.vercel.app/docs/doc2#our-digital-transformation-strategy,
            label: 'Project Management',
            position: 'right',
          },{to: 'blog', label: 'Pricing', position: 'left'},
