@@ -26,9 +26,8 @@ module.exports = {
            label: 'Project Management',
            position: 'right',
          },{to: 'blog', label: 'Our Story', position: 'left'},
-         {
-           
-         
+        
+       
         
       ],
     },
