@@ -12,13 +12,11 @@ title: Project and Task Management
         <MarkdownBlock>Let us help you Process & Optimise decisions</MarkdownBlock>
       </div>
     
-    --------------------------------------------------------------------------------------------------------------------------------------------
-    
-
-
+  Our goal is to help you increase social capital by increasing individual productivity through technology.
+  
 :::note
 
-Ensure accuracy and efficiency. All subscriptions start billing from a minimum of 3 months
+Ensure accuracy and efficiency. The application is compatible with all devices. 
 
 :::
 
@@ -30,7 +28,7 @@ A Project Management tool is not just a software. Its far more than that. Whethe
 
 :::important
 
-Track calls, emails, contact history, projects and milestones. Have full visibility and control of your schedule at a glance
+Let us help you track engagements, emails, projects and milestones. Have full visibility and control of your schedule at a glance
 
 :::
 
