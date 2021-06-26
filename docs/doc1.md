@@ -1,202 +1,79 @@
 ---
 id: doc1
-title: Style Guide
-sidebar_label: Style Guide
+title: Introduction
+sidebar_label: Indroduction
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+## H2 - What is this?
 
-## Markdown Syntax
+Business Hustle is a complete software development solution for startups. Our goal is to give you the resources you need to jumpstart your project.
+Whether you're a creative, author, designers and/or entrepreneur developing a structure or a plan of action for your business can be a daunting and expensive task.
 
-To serve as an example page when styling markdown based Docusaurus sites.
+This page offers a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for you to take advantage of while building content/systems for your business.
 
-## Headers
+Many entrepreneurs and creatives are working remotely and need to get online in order to continue driving revenue. Below is a list of useful resources meant to suit your business needs.
+ 
+[Read our terms and conditions here](https://github.github.com/gfm/).
 
-# H1 - Create the best documentation
+## Design & UI
 
-## H2 - Create the best documentation
+https://www.figma.com - Generate, edit and publish beautiful websites and landing pages for your startup. The Free tier allow you to have one website, fully customizable and published on the web.
 
-### H3 - Create the best documentation
+https://imagebin.ca - Pastebin for images.
 
-#### H4 - Create the best documentation
+https://www.pexels.com - Free stock photos for commercial use. This has a free API that allows you to search photos by keywords.
 
-##### H5 - Create the best documentation
+https://www.photopea.com - A Free, Advanced online design editor with Adobe Photoshop UI supporting PSD, XCF & Sketch formats (Adobe Photoshop, Gimp and Sketch App).
 
-###### H6 - Create the best documentation
+https://pixelite.com - Create and edit engaging and unique graphics and images online.
 
----
 
-## Emphasis
 
-Emphasis, aka italics, with _asterisks_ or _underscores_.
+## Email
 
-Strong emphasis, aka bold, with **asterisks** or **underscores**.
+https://buttondown.email - Newsletter service. Up to 1,000 subscribers free
 
-Combined emphasis with **asterisks and _underscores_**.
+https://forwardemail.net/en - Free email forwarding for custom domains. Create and forward an unlimited amount of email addresses with your domain name.
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+https://www.sparkpost.com - First 500 emails/month free
 
----
+## Website hosting 
 
-## Lists
+https://www.netlify.com - An intuitive GIT based sever less platform
 
-1. First ordered list item
-1. Another item ⋅⋅\* Unordered sub-list.
-1. Actual numbers don't matter, just that it's a number ⋅⋅1. Ordered sub-list
-1. And another item.
+https://www.sparkpost.com - Free Unlimited Web Hosting Service for PHP, MySQL no ads include.
 
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
+https://www.000webhost.com - Zero cost website hosting with Apache, PHP, MySQL, cPanel with ads on the bottom of each pages.
 
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅ ⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅ ⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
+## Content  creation 
 
-- Unordered list can use asterisks
+https://virtualghostwriter.com - Virtual AI content writer 
 
-* Or minuses
+https://mockuper.net - A free online mockup generator that lets you design your products mockups easily and quickly. 
 
-- Or pluses
+https://www.liveplan.com - Easily write a business plan, secure funding, and get insights to help you reach your goals.
 
----
+https://fonts.google.com - A variety of free fonts that are easy and quick to install in a website to choose from. 
 
-## Links
+https://videoinu.com - Create and edit screen recordings and other videos online.
 
-[I'm an inline-style link](https://www.google.com)
+## Forms
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+https://www.99inbound.com - Build your own custom forms and share them online. Get an email or Slack message for each submission. Free plan has 2 forms, 100 entries per month, basic email & Slack.
 
-[I'm a reference-style link][arbitrary case-insensitive reference text]
+https://web3forms.com - Contact forms for Static & JAMStack Websites without writing backend code. Free plan allows Unlimited Forms, Unlimited Domains & 250 Submissions per month.
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+## Software Development 
 
-[You can use numbers for reference-style link definitions][1]
+https://anvil.works - Full stack web apps with nothing but Python.
 
-Or leave it empty and use the [link text itself].
+https://encore.dev - Get a smoother backend workflow, from idea to production. Encore uses source code analysis to radically simplify your development experience.
 
-URLs and URLs in angle brackets will automatically get turned into links. http://www.example.com or <http://www.example.com> and sometimes example.com (but not on Github, for example).
+https://www.gearhost.com/pricing - A Platform for .NET and PHP apps. You will receive 256 MB of RAM for free on a shared server with limited resources
 
-Some text to show that the reference links can follow later.
+https://m3o.com - Ship backend for your frontend without managing the infrastructure for free. 
 
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+https://appfleet.com - appfleet is an edge platform that allows its users to deploy containers globally to multiple regions at the same time. With a simple to use UI while automating all the complexity such as smart routing, clustering, failover, monitoring etc. Appfleet is free for open source projects and all users automatically get $10 to host whatever they want.
 
----
+https://www.docsapp.io - Easiest way to deploy and publish documentation. Completely free for Open Source. 
 
-## Images
-
-Here's our logo (hover to see the title text):
-
-Inline-style: ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 'Logo Title Text 1')
-
-Reference-style: ![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 'Logo Title Text 2'
-
----
-
-## Code
-
-```javascript
-var s = 'JavaScript syntax highlighting';
-alert(s);
-```
-
-```python
-s = "Python syntax highlighting"
-print(s)
-```
-
-```
-No language indicated, so no syntax highlighting.
-But let's throw in a <b>tag</b>.
-```
-
-```js {2}
-function highlightMe() {
-  console.log('This line can be highlighted!');
-}
-```
-
----
-
-## Tables
-
-Colons can be used to align columns.
-
-| Tables        |      Are      |   Cool |
-| ------------- | :-----------: | -----: |
-| col 3 is      | right-aligned | \$1600 |
-| col 2 is      |   centered    |   \$12 |
-| zebra stripes |   are neat    |    \$1 |
-
-There must be at least 3 dashes separating each header cell. The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.
-
-| Markdown | Less      | Pretty     |
-| -------- | --------- | ---------- |
-| _Still_  | `renders` | **nicely** |
-| 1        | 2         | 3          |
-
----
-
-## Blockquotes
-
-> Blockquotes are very handy in email to emulate reply text. This line is part of the same quote.
-
-Quote break.
-
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can _put_ **Markdown** into a blockquote.
-
----
-
-## Inline HTML
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
----
-
-## Line Breaks
-
-Here's a line for us to start with.
-
-This line is separated from the one above by two newlines, so it will be a _separate paragraph_.
-
-This line is also a separate paragraph, but... This line is only separated by a single newline, so it's a separate line in the _same paragraph_.
-
----
-
-## Admonitions
-
-:::note
-
-This is a note
-
-:::
-
-:::tip
-
-This is a tip
-
-:::
-
-:::important
-
-This is important
-
-:::
-
-:::caution
-
-This is a caution
-
-:::
-
-:::warning
-
-This is a warning
-
-:::
