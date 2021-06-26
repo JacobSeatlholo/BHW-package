@@ -40,7 +40,7 @@ This is a caution
 
 :::
 
-:::warning
+:::Simplified Customer Relationship Management dashboard with an accesssible UI/UX
 
 This is a warning
 
