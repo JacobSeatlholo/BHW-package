@@ -4,7 +4,7 @@ title: Introduction
 sidebar_label: Indroduction
 ---
 
-## H2 - What is this?
+## What is this?
 
 Business Hustle is a complete software development solution for startups. Our goal is to give you the resources you need to jumpstart your project.
 Whether you're a creative, author, designers and/or entrepreneur developing a structure or a plan of action for your business can be a daunting and expensive task.
