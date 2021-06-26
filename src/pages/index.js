@@ -8,6 +8,7 @@ import styles from './styles.module.css';
 
 const features = [
   {
+    style={{ textAlign: 'center' }}
     title: <>Easy to Use Project Management App</>,
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
@@ -17,6 +18,7 @@ const features = [
     ),
   },
   {
+    style={{ textAlign: 'center' }}
     title: <>Digital consulting</>,
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
@@ -27,6 +29,7 @@ const features = [
     ),
   },
   {
+    style={{ textAlign: 'center' }}
     title: <>Full stack web development</>,
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
