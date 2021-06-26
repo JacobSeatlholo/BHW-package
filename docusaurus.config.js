@@ -78,7 +78,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Simple eternity holdings (Pty) Ltd.`,
+      copyright: `Copyright © Business Hustle${new Date().getFullYear()} Simple eternity holdings (Pty) Ltd.`,
     },
   },
   presets: [
