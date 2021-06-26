@@ -18,15 +18,22 @@ Many entrepreneurs and creatives are working remotely and need to get online in 
 ## Design & UI
 
 [Canva](https://www.canva.com) - 8,000+ free templates and thousands of free photos ![Free](https://img.shields.io/badge/-Free-brightgreen)
-https://www.figma.com - Generate, edit and publish beautiful websites and landing pages for your startup. The Free tier allow you to have one website, fully customizable and published on the web.
 
-https://imagebin.ca - Pastebin for images.
+https://www.figma.com - Generate, edit and publish beautiful websites and landing pages for your startup. The Free tier allow you to have one website, fully customizable and published on the web. ![Free](https://img.shields.io/badge/-Free-brightgreen)![Paid](https://img.shields.io/badge/-Paid-blue)
 
-https://www.pexels.com - Free stock photos for commercial use. This has a free API that allows you to search photos by keywords.
+https://www.pexels.com - Free stock photos for commercial use. This has a free API that allows you to search photos by keywords. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
-https://www.photopea.com - A Free, Advanced online design editor with Adobe Photoshop UI supporting PSD, XCF & Sketch formats (Adobe Photoshop, Gimp and Sketch App).
+[Humaaans](https://www.humaaans.com/) - Library of editable people illustrations. Free for both commercial and personal use. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
-https://pixelite.com - Create and edit engaging and unique graphics and images online.
+https://www.photopea.com - A Free, Advanced online design editor with Adobe Photoshop UI supporting PSD, XCF & Sketch formats (Adobe Photoshop, Gimp and Sketch App). ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+https://pixelite.com - Create and edit engaging and unique graphics and images online. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+(https://undraw.co) - "MIT licensed illustrations for every project you can imagine and create ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+https://www.gratisography.com - Photographer Ryan McGuire provides this collection of high-resolution pictures for free. You can use them on your personal or commercial project free of copyright restrictions. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+
 
 
 
@@ -83,4 +90,4 @@ https://www.docsapp.io - Easiest way to deploy and publish documentation. Comple
 [edx](https://www.edx.org/) - A series of University-level courses from Harvard, MIT, Wharton, and more. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 
-
+**[⬆ back to top]
