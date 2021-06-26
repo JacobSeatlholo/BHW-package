@@ -17,6 +17,7 @@ Many entrepreneurs and creatives are working remotely and need to get online in 
 
 ## Design & UI
 
+[Canva](https://www.canva.com) - 8,000+ free templates and thousands of free photos ![Free](https://img.shields.io/badge/-Free-brightgreen)
 https://www.figma.com - Generate, edit and publish beautiful websites and landing pages for your startup. The Free tier allow you to have one website, fully customizable and published on the web.
 
 https://imagebin.ca - Pastebin for images.
