@@ -16,31 +16,31 @@ title: Project and Task Management
     
 
 
-:::Simplified Customer Relationship Management dashboard with an accesssible UI/UX
+:::note
 
-This is a note
+This is a note.
 
 :::
 
 :::tip
 
-This is a tip
+This is a tip.
 
 :::
 
 :::important
 
-This is important
+This is important.
 
 :::
 
 :::caution
 
-This is a caution
+This is a caution;
 
 :::
 
-:::Simplified Customer Relationship Management dashboard with an accesssible UI/UX
+:::warning
 
 This is a warning
 
