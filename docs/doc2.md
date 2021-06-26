@@ -33,11 +33,11 @@ Our goal is to customer demands & circumstances in real-time. We offer data driv
   
   All plans include a dedicated creative team with a vast range of capabilities, project managers who serve as single points of contact, same-day turnarounds when needed, and of course, access to our project management application.
   
-  | Product   |      What you get |   Pricing |
+  | Package  |      What you get |   Pricing |
 | ------------- | :-----------: | -----: |
-| Level 1    | right-aligned | R3,500 |
-| Level 2      |  Covers all Design Categories, including Motion, Brand Identity, and Web/App Design Supports multiple brands 100 hours/month, all available for fast turnaround service * 1 dedicated design director * A dedicated design team with 2-3 senior designers * 2 dedicated project managers * 24/7 dedicated support * Creative onboarding included   |   R14,500 |
-| Level 3 |   are neat    |    R23,400 |
+| Starting   | All of the essential features for building and growing your online presence. .COM domain name registration, Wordpress Hosting + Free templates. Free Wordpress Migrations| R3,500 |
+| Growing     |  Covers all Design Categories, including Social Media Optimization, Brand Identity, and Web/App Design Supports multiple brands 100 hours/month, * 1 dedicated project manager  * A dedicated design team with 2-3 senior designers * 2 dedicated project managers * 24/7 dedicated support * Project Management Application onboarding included   |   R16,200 |
+| Scaling | Includes all Design Categories, including Social Media Optimization, Search Engine Marketing, Brand Identity, and Web/App Design supporting multiple brands. * 380 hours/month, all available for fast turnaround service. * Tailored setup. * 24/7 dedicated support Ability for team to be on standby Custom integrations. * Creative onboarding included   |    R23,400 |
 
 
 ## Automation & AI
