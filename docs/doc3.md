@@ -14,6 +14,8 @@ title: Project and Task Management
     
   Our goal is to help you increase social capital by increasing individual productivity through technology.
   
+  
+  
 :::note
 
 Ensure accuracy and efficiency. The application is compatible with all devices. 
