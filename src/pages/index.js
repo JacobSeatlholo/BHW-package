@@ -8,17 +8,16 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Easy to Use</>,
+    title: <>Easy to Use Project Management App</>,
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Focus on what matters,save time and work more efficiently. This application helps you create new plans, organize and assign tasks. It can be used as task manager, to-do’s list app, project management tool and/or calendar.
       </>
     ),
   },
   {
-    title: <>Focus on What Matters</>,
+    title: <>Digital consulting</>,
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
@@ -28,7 +27,7 @@ const features = [
     ),
   },
   {
-    title: <>Powered by React</>,
+    title: <>Full stack web development</>,
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
