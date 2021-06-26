@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Unlimited business resources',
+  title: 'Unlimited Business Resources',
   tagline: 'Let us help you grow your business',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
