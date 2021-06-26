@@ -36,7 +36,14 @@ Our goal is to customer demands & circumstances in real-time. We offer data driv
   | Product   |      What you get |   Pricing |
 | ------------- | :-----------: | -----: |
 | Level 1    | right-aligned | \R3,500 |
-| Level 2      |   centered    |   \R14,500 |
+| Level 2      |  Covers all Design Categories, including Motion, Brand Identity, and Web/App Design
+Supports multiple brands
+100 hours/month, all available for fast turnaround service
+1 dedicated design director
+A dedicated design team with 2-3 senior designers
+2 dedicated project managers
+24/7 dedicated support
+Creative onboarding included   |   \R14,500 |
 | Level 3 |   are neat    |    \R23,400 |
 
 
