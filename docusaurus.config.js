@@ -27,9 +27,8 @@ module.exports = {
            position: 'right',
          },{to: 'blog', label: 'Our Story', position: 'left'},
          {
-           href: 'https://github.com/facebook/docusaurus',
-           label: 'Project Management',
-          position: 'right',
+           ,
+         
         },
       ],
     },
