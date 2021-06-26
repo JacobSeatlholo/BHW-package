@@ -20,7 +20,7 @@ module.exports = {
           label: 'Resources',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        {to: 'blog', label: 'Updates', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'Project Management',
