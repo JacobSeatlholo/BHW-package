@@ -89,9 +89,10 @@ https://www.docsapp.io - Easiest way to deploy and publish documentation. Comple
 
 [edx](https://www.edx.org/) - A series of University-level courses from Harvard, MIT, Wharton, and more. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
->Download [Hustle Basics](https://gumroad.com/l/opbDH) today and find out how to tap into an unlimited amount of internet resources for you and your business
 
+:::Hustle Basics(https://gumroad.com/l/opbDH)
 
+Unlock unlimited amount of internet resources for you and your business
 
 ## Payment Integrations 
 
