@@ -18,20 +18,17 @@ module.exports = {
           to: 'docs/doc1',
           activeBasePath: 'docs',
           label: 'Resources',
-          position: 'left',
-        },
-        {to: 'blog', label: 'Updates', position: 'left'},
-        {
+           position: 'left',
+         },
+         {to: 'blog', label: 'Updates', position: 'left'},
+         {
            href: 'https://github.com/facebook/docusaurus',
            label: 'Project Management',
            position: 'right',
          },{to: 'blog', label: 'Our Story', position: 'left'},
-         {,
-        },
-        ,{to: 'blog', label: 'Our Story', position: 'left'},
-        {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'Project Management',
+         {
+           href: 'https://github.com/facebook/docusaurus',
+           label: 'Project Management',
           position: 'right',
         },
       ],
