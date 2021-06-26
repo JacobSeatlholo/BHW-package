@@ -77,3 +77,9 @@ https://appfleet.com - appfleet is an edge platform that allows its users to dep
 
 https://www.docsapp.io - Easiest way to deploy and publish documentation. Completely free for Open Source. 
 
+## Education & Training
+
+[edx](https://www.edx.org/) - A series of University-level courses from Harvard, MIT, Wharton, and more. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+
+
