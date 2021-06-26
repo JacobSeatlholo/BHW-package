@@ -14,9 +14,6 @@ title: Project and Task Management
     
   Our goal is to help you increases your organisations overall productivity. We ensure a seamless digital experience that strengthens collaboration, increases sustainability, and reduces business risk.
 
-:::note 
-
-This is a note
 
 :::tip
 
