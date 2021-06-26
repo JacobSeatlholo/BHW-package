@@ -18,30 +18,20 @@ title: Project and Task Management
 
 :::note
 
-This is a note.
+Ensure accuracy and efficiency. All subscriptions start billing from a minimum of 3 months
 
 :::
 
 :::tip
 
-This is a tip.
+A Project Management tool is not just a software. Its far more than that. Whether you are B2C, B2B, B2B2C, customer relations and internal task management are the cornerstone of any business.
 
 :::
 
 :::important
 
-This is important.
+Track calls, emails, contact history, projects and milestones. Have full visibility and control of your schedule at a glance
 
 :::
 
-:::caution
 
-This is a caution;
-
-:::
-
-:::warning
-
-This is a warning
-
-:::
