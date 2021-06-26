@@ -38,11 +38,11 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Style Guide',
+              label: 'Resources',
               to: 'docs/doc1',
             },
             {
-              label: 'Second Doc',
+              label: 'What we offer',
               to: 'docs/doc2',
             },
           ],
@@ -51,16 +51,16 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Facebook',
+              href: 'https://www.facebook.com/HustlebusinessWorldwide',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Instagram',
+              href: 'https://www.instagram.com/businesshustleworldwide',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/HustleBusiness',
             },
           ],
         },
@@ -68,12 +68,12 @@ module.exports = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
+              label: 'Updates',
               to: 'blog',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'Contact us',
+              href: 'https://bit.ly/business-hustle',
             },
           ],
         },
