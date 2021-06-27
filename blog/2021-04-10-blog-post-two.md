@@ -1,10 +1,12 @@
 ---
+id: Choosing the correct call center model for your business.
 title: Which Call Center Agent Model is Right for Your Business During and After COVID-19?
 author: David Rickard
-authorURL: https://www.everestgrp.com/blog/
+author_url: https://www.everestgrp.com/blog/
 authorFBID: 100002976521003
+author_image_url: https://avatars0.githubusercontent.com/u/1315101?s=400&v=4
+tags: [facebook, hello, docusaurus]
 ---
-
 
 Today, most companies have staff working from home due to the pandemic. Although customer experience management (CXM) agents aren’t essential workers in the truest sense, consumers sheltering in the safety of their homes for months on end have relied on them so heavily for wide-ranging reasons that they might as well have considered them so. What those consumers probably don’t know is that the call center agents assisting them are most likely working from home. In fact, our recent research report, Customer Experience Management (CXM) State of the Market Report 2021, found that the percentage of CXM FTEs working at home grew from less than 10 percent in 2019 to as much as 80 percent during the health crisis. While we expect that there will be some movement back towards the brick and mortar model in the coming months and years, many service providers and in-house contact centers will continue to utilize Work at Home Agents (WAHA) as a key component of their service delivery strategy.
 
