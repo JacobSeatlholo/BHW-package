@@ -1,7 +1,7 @@
 ---
 id: doc1
 title: Introduction
-sidebar_label: Indroduction
+sidebar_label: Introduction
 ---
 
 ## What is this?
