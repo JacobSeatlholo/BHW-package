@@ -70,13 +70,14 @@ https://tools.pingdom.com/#5e931005ed400000 - Pingdom offers a cost and performa
 
 ## Search Engine Optimisation 
 
-https://seositecheckup.com - Check for proper tags and site errors that may come up on your site. ![Paid](https://img.shields.io/badge/-Paid-blue)
+https://seositecheckup.com - Check for proper tags and site errors that may come up on your site. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 
-http://webpagetest.org - Run a comprehensive website audit test from around the globe using real browsers at consumer connection speeds with detailed optimization recommendations.
+http://webpagetest.org - Run a comprehensive website audit test from around the globe using real browsers at consumer connection speeds with detailed optimization recommendations. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 
 ## Content  creation 
 
 https://virtualghostwriter.com - Virtual AI content writer. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
+
 https://mockuper.net - A free online mockup generator that lets you design your products mockups easily and quickly. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 https://fonts.google.com - A variety of free fonts that are easy and quick to install in a website to choose from. ![Free](https://img.shields.io/badge/-Free-brightgreen)
