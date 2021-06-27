@@ -17,29 +17,41 @@ Many entrepreneurs and creatives are working remotely and need to get online in 
 
 ## Design & UI
 
-[Canva](https://www.canva.com) - 8,000+ free templates and thousands of free photos ![Free](https://img.shields.io/badge/-Free-brightgreen)
+[Canva](https://www.canva.com) - 8,000+ free templates and thousands of free photos. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 https://www.figma.com - Generate, edit and publish beautiful websites and landing pages for your startup. The Free tier allow you to have one website, fully customizable and published on the web. ![Free](https://img.shields.io/badge/-Free-brightgreen)![Paid](https://img.shields.io/badge/-Paid-blue)
 
 https://www.pexels.com - Free stock photos for commercial use. This has a free API that allows you to search photos by keywords. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
+https://coolbackgrounds.io - Gain access to a collection of tools to create compelling, colorful images for blogs, social media, and websites. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
 [Humaaans](https://www.humaaans.com/) - Library of editable people illustrations. Free for both commercial and personal use. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+https://gradienta.io - Discover pure CSS gradient backgrounds for your next website or app, as a JPG image or CSS code with no attribute required. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+https://colorhunt.co - Color Hunt is an open platform for color inspiration with thousands of trendy hand-picked color palettes. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+https://palette.ninja - Design harmonious color schemes in seconds with Palette Ninja. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+https://stripesgenerator.com - Stripes generator for your website. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 https://www.photopea.com - A Free, Advanced online design editor with Adobe Photoshop UI supporting PSD, XCF & Sketch formats (Adobe Photoshop, Gimp and Sketch App). ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
+https://iconmonstr.com - Black and white themed minimal icons with customizeable thickness. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
 https://pixelite.com - Create and edit engaging and unique graphics and images online. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
-(https://undraw.co) - "MIT licensed illustrations for every project you can imagine and create ![Free](https://img.shields.io/badge/-Free-brightgreen)
+(https://undraw.co) - "MIT licensed illustrations for every project you can imagine and create. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 https://www.gratisography.com - Photographer Ryan McGuire provides this collection of high-resolution pictures for free. You can use them on your personal or commercial project free of copyright restrictions. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
-
+https://thenounproject.com - Search for a noun and find an icon as simple as that. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 
 
 ## Email
 
-https://buttondown.email - Newsletter service. Up to 1,000 subscribers free
+https://buttondown.email - Newsletter service. Up to 1,000 subscribers free. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 https://forwardemail.net/en - Email forwarding for custom domains. Create and forward an unlimited amount of email addresses with your domain name. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
@@ -47,23 +59,31 @@ https://www.sparkpost.com - First 500 emails/month free. ![Free](https://img.shi
 
 ## Website hosting 
 
-https://www.netlify.com - An intuitive GIT based sever less platform ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
+https://www.netlify.com - An intuitive GIT based sever less platform. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 
 https://www.sparkpost.com - Free Unlimited Web Hosting Service for PHP, MySQL no ads include. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 https://www.000webhost.com - Zero cost website hosting with Apache, PHP, MySQL, cPanel with ads on the bottom of each pages. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 
+https://tools.pingdom.com/#5e931005ed400000 - Pingdom offers a cost and performance monitoring tool for your website. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue) 
+
+
+## Search Engine Optimisation 
+
+https://seositecheckup.com - Check for proper tags and site errors that may come up on your site. ![Paid](https://img.shields.io/badge/-Paid-blue)
+
+http://webpagetest.org - Run a comprehensive website audit test from around the globe using real browsers at consumer connection speeds with detailed optimization recommendations.
+
 ## Content  creation 
 
-https://virtualghostwriter.com - Virtual AI content writer 
-
+https://virtualghostwriter.com - Virtual AI content writer. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 https://mockuper.net - A free online mockup generator that lets you design your products mockups easily and quickly. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 https://fonts.google.com - A variety of free fonts that are easy and quick to install in a website to choose from. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 https://videoinu.com - Create and edit screen recordings and other videos online. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
-(https://wireframe.cc/) - Great tool for sketching out ideas and layouts, super minimalistic ![Free](https://img.shields.io/badge/-Free-brightgreen)
+(https://wireframe.cc/) - Great tool for sketching out ideas and layouts, super minimalistic. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 ## Forms
 
@@ -89,12 +109,14 @@ https://www.docsapp.io - Easiest way to deploy and publish documentation. Comple
 
 [edx](https://www.edx.org/) - A series of University-level courses from Harvard, MIT, Wharton, and more. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
+https://learnui.design/index.html - Learn UI design for free. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
 >Download [Hustle Basics](https://gumroad.com/l/opbDH) today and find out how to tap into an unlimited amount of internet resources for you and your business
 
 
 ## Payment Integrations 
 
-See challenges in a new light with accurate [Project Management.](doc3.md) and Custom decision support with our free resources 
+See challenges in a new light with accurate [Project Management.](doc3.md) and Custom decision support with our free resources. 
 
 [Fraudlabspro.](https://www.fraudlabspro.com/) - Help merchants to prevent payment fraud and chargebacks. Free Micro Plan available with 500 queries/month. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 
@@ -112,7 +134,7 @@ See challenges in a new light with accurate [Project Management.](doc3.md) and C
 
 Project management is all about transforming your service delivery in order to drive broad adoption and create sustainable value – Excellence in business is what we at Business Hustle strive for you to achieve. 
 
-[Bitwarden.](https://bitwarden.com/) - Among the easiest and safest way for individuals, teams, and business organizations to store, share, and sync sensitive data ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
+[Bitwarden.](https://bitwarden.com/) - Among the easiest and safest way for individuals, teams, and business organizations to store, share, and sync sensitive data. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 
 [Cally.com](https://cally.com/) - With cally.com, you can quickly and easily find a suitable date and location for your group event. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 
