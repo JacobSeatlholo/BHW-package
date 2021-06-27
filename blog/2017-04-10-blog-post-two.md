@@ -20,5 +20,5 @@ GigCX, which is often seen as another strain of the WAHA model, should not be co
 
 When considering which approach is best to meet a set of business requirements, organizations should understand the following differences in the two models: (https://www.everestgrp.com/2021-02-which-call-center-agent-model-is-right-for-your-business-during-and-after-covid-19-blog-.html)
 
-While we have seen both WAHA and GigCX being effective models for handling customer interactions, there are some stark differences in their operation. Any company considering using either model should assess the positives and negatives of the approaches and factor them into their operating model design. Both models are highly effective when utilized appropriately to handle the right interaction types, especially if all the limitations and dependencies are considered early in the design process.
+While we have seen both WAHA and GigCX being effective models for handling customer interactions, there are some stark differences in their operation. Any company considering using either model should assess the positives and negatives of the approaches and factor them into their operating model design. Both models are highly effective when utilized appropriately to handle the right interaction types, especially if all the limitations and dependencies are considered early in the design process. 
 
