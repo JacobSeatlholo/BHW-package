@@ -12,7 +12,7 @@ const features = [
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Focus on what matters,save time and work more efficiently. This application helps you create new plans, organize and assign tasks. It can be used as task manager, to-do’s list app, project management tool and/or calendar.
+        Focus on what matters,save time and work more efficiently through the Project management application that helps you create new plans, organize and assign tasks. It can be used as task manager, to-do’s list app, project management tool and/or calendar.
       </>
     ),
   },
