@@ -5,30 +5,27 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
-
 const features = [
   {
-    title: <>What we offer.</>,
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
-    description: (
-      <>
-        We help bring deep insight and expertise to support leaders of corporate, markerters, creators & influencers.
-    We offer brand consulting, outsourcing of technology services and solutions to organizations, individual brands, startups, SMEs & Non Profit Organisaitons.
-    
-      </>
-    ),
-  },
+    title: <>Easy to Use Task Management App</>,
+     imageUrl: 'img/undraw_docusaurus_mountain.svg',
+     description: (
+       <>
+         Focus on what matters,save time and work more efficiently through the Project management application that helps you create new plans, organize and assign tasks. It can be used as task manager, to-do’s list app, project management tool and/or calendar.
+       </>
+     ),
+   },
   {
-    title: <>Our brand</>,
+    title: <>Social Media Optimisation</>,
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Let us help you add a little creative magic to your social media profiles and brand identity through our specialized brand solution offerings and technology services.<code>docs</code> directory.
+        Let us help you add a little creative magic to your social media profiles and brand identity through our specialized brand solution offerings <code>docs</code> directory.
       </>
     ),
   },
   {
-    title: <>What we do?</>,
+    title: <> Turn-key Web Development Services</>,
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
@@ -37,7 +34,6 @@ const features = [
     ),
   },
 ];
-
 function Feature({imageUrl, title, description}) {
   const imgUrl = useBaseUrl(imageUrl);
   return (
@@ -52,7 +48,6 @@ function Feature({imageUrl, title, description}) {
     </div>
   );
 }
-
 function Home() {
   const context = useDocusaurusContext();
   const {siteConfig = {}} = context;
@@ -92,5 +87,4 @@ function Home() {
     </Layout>
   );
 }
-
 export default Home;
