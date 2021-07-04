@@ -22,7 +22,7 @@ module.exports = {
          },
          {to: 'blog', label: 'Updates', position: 'left'},
          {
-           href: 'https://github.com/facebook/docusaurus',
+           href: 'https://www.businesshustle.online.dream.website/landingpage/pluginops-page-9',
            label: 'Project Management',
           position: 'right',
         },
