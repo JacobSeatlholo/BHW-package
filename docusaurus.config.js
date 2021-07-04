@@ -29,7 +29,7 @@ module.exports = {
         },
           
      
-        { footer: 
+        { footer 
       style: 'dark',
       links: [
         }
