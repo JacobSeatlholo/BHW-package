@@ -8,17 +8,18 @@ import React from 'react';
 
  const features = [
    {
-     title: <>Easy to Use</>,
+     title: <>Easy to Use Project Management App</>,
      imageUrl: 'img/undraw_docusaurus_mountain.svg',
      description: (
        <>
-         Docusaurus was designed from the ground up to be easily installed and
-         used to get your website up and running quickly.
+         Focus on what matters, save time and work more efficiently
+         through the Project management application that helps you create new plans, organize and assign tasks. 
+         It can be used as a task manager tool and/or calendar.
        </>
      ),
    },
    {
-     title: <>Focus on What Matters</>,
+     title: <>Social Media Marketing</>,
      imageUrl: 'img/undraw_docusaurus_tree.svg',
      description: (
        <>
