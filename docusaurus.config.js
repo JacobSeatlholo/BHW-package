@@ -29,7 +29,7 @@ module.exports = {
           
      
         { footer: 
-      style 'dark',
+      style: 'dark',
         }
         }
           title: 'Docs',
@@ -75,7 +75,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © Business Hustle ${new Date().getFullYear()} Simple eternity holdings (Pty) Ltd.`,
+      copyright: `Copyright © Business Hustle ${new Date().getFullYear()} Simple eternity holdings  Ltd.`,
     },
   },
   presets: [
