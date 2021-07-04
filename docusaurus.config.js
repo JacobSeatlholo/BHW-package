@@ -28,7 +28,7 @@ module.exports = {
            label: 'right',
         },
           
-        },
+     
         { footer: 
       style: 'dark',
       links: [
