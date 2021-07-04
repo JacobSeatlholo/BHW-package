@@ -48,16 +48,16 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Facebook',
+              href: 'https://www.facebook.com/HustlebusinessWorldwide',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Instagram',
+              href: 'https://www.instagram.com/businesshustleworldwide',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/HustleBusiness',
             },
           ],
         },
@@ -69,13 +69,13 @@ module.exports = {
               to: 'blog',
             },
             {
-              label: 'GitHub',
+              label: 'Contact us',
               href: 'https://github.com/facebook/docusaurus',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Business Hustle.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Simple eternity holdings (Pty) Ltd. All rights reserved.`,
     },
   },
   presets: [
