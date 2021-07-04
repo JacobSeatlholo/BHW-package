@@ -28,7 +28,10 @@ module.exports = {
         },
           
      
-     
+        { footer: 
+      style: 'dark',
+      
+        }
           title: 'Docs',
           items: [
             {
@@ -67,7 +70,7 @@ module.exports = {
             },
             {
               label: 'Contact us',
-              href: 'https://bit.ly/business-hustle',
+              href: '#',
             },
           ],
         },
