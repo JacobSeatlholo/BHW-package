@@ -23,18 +23,16 @@ import React from 'react';
      imageUrl: 'img/undraw_docusaurus_tree.svg',
      description: (
        <>
-         Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-         ahead and move your docs into the <code>docs</code> directory.
+         Let us help you add a little creative magic to your social media profiles and brand identity through our specialized brand solution.
        </>
      ),
    },
    {
-     title: <>Powered by React</>,
+     title: <>Turn-Key Web Development Services</>,
      imageUrl: 'img/undraw_docusaurus_react.svg',
      description: (
        <>
-         Extend or customize your website layout by reusing React. Docusaurus can
-         be extended while reusing the same header and footer.
+         Get a fully stacked team and tackle your organisations end to end design needs.
        </>
      ),
    },
