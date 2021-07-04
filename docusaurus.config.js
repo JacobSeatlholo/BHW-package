@@ -24,12 +24,11 @@ module.exports = {
         {
            href: 'https://www.businesshustle.online.dream.website/landingpage/pluginops-page-9/',
            label:'Project Management',
-           label:'Pricing',
            label: 'right',
         },
           
      
-        { footer 
+        { footer: 
       style: 'dark',
       links: [
         }
