@@ -22,7 +22,7 @@ module.exports = {
          },
          {to: 'blog', label: 'Updates', position: 'left'},
          {
-           href: 'https://www.businesshustle.online.dream.website/landingpage/pluginops-page-9',
+           href: 'https://www.businesshustle.online',
            label: 'Project Management',
           position: 'right',
         },
@@ -70,7 +70,7 @@ module.exports = {
             },
             {
               label: 'Contact us',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://bit.ly/business-hustle',
             },
           ],
         },
