@@ -1,6 +1,6 @@
 ---
 id: mdx
-title: Our flexible plans
+title: Our Flexible Plans
 ---
 
 
