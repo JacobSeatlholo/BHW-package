@@ -26,7 +26,7 @@ module.exports = {
            label: 'Project Management',
           
         },
-    footer: 
+        { footer: 
       style: 'dark',
       links: [
         {
