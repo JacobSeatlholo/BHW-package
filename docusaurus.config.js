@@ -32,14 +32,14 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'About us',
           items: [
             {
-              label: 'Style Guide',
+              label: 'Who we are?',
               to: 'docs/doc1',
             },
             {
-              label: 'Second Doc',
+              label: 'What we do',
               to: 'docs/doc2',
             },
           ],
