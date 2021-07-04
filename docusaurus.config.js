@@ -17,13 +17,13 @@ module.exports = {
         {
           to: 'docs/doc1',
           activeBasePath: 'docs',
-          label: 'Docs',
-          position: 'left',
-        },
-        {to: 'blog', label: 'Blog', position: 'left'},
-        {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+           label: 'Resources',
+           position: 'left',
+         },
+         {to: 'blog', label: 'Updates', position: 'left'},
+         {
+           href: 'https://github.com/facebook/docusaurus',
+           label: 'Project Management',
           position: 'right',
         },
       ],
@@ -72,13 +72,13 @@ module.exports = {
               label: 'GitHub',
               href: 'https://github.com/facebook/docusaurus',
             },
-           ],
-         },
-       ],
-       copyright: `Copyright © ${new Date().getFullYear()} Business Hustle.`,
-     },
-   },
-   presets: [
+          ],
+        },
+      ],
+      copyright: `Copyright © ${new Date().getFullYear()} Business Hustle.`,
+    },
+  },
+  presets: [
     [
       '@docusaurus/preset-classic',
       {
