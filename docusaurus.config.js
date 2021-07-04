@@ -27,7 +27,6 @@ module.exports = {
            
        
         
-        },
     },
     footer: {
       style: 'dark',
