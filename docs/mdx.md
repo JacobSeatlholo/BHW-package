@@ -1,6 +1,6 @@
 ---
 id: mdx
-title: Why work with us?
+title: Our flexible plans
 ---
 
 
