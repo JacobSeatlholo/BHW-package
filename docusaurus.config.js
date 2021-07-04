@@ -24,9 +24,7 @@ module.exports = {
          {
            href: 'https://www.businesshustle.online.dream.website/landingpage/pluginops-page-9/',
            label: 'Project Management',
-           position: 'right',
-         },{to: 'blog', label: 'Pricing', position: 'left'},
-        
+           
        
         
       ],
