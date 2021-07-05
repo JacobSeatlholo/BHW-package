@@ -57,7 +57,7 @@ Artificial intelligence (AI) is the ability of machines to interpret data and ac
 
 How can we help you?
 
-If you would like an estimate on a project or would like to discuss or would like to discuss your new upcoming project, receive on-going support when you need it most. Email us at team@business-hustle.co
+If you would like an estimate on a project or would like to discuss or would like to discuss your new upcoming project, receive on-going support when you need it most. Email us at team@business-hustle.co 
 
 
   
