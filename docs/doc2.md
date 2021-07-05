@@ -6,7 +6,7 @@ Business Hustle Ltd is a trademark of Simple eternity holdings (PTY) LTD a compa
 
 ## What We Offer
 
-We offer brand consulting, outsourcing of technology services and solutions to organizations, individual brands, startups, SMEs & Non Profit Organisaitons. We help bring deep insight and expertise to support leaders of corporate, markerters, creators & influencers.
+We offer brand consulting, web development, outsourcing of technology services and solutions to organizations, individual brands, startups, SMEs & Non Profit Organisaitons. We help bring deep insight and expertise to support leaders of corporate, markerters, creators & influencers.
 
 ## Company Overview
 
