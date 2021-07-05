@@ -22,7 +22,7 @@ module.exports = {
          },
          {to: 'blog', label: 'Updates', position: 'left'},
          {
-           href: 'https://www.businesshustle.online',
+           href: 'https://businesshustleworldwideltd.vercel.app/docs/mdx',
            label: 'Project Management',
           position: 'right',
         },
