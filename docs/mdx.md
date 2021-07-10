@@ -5,7 +5,7 @@ title: Our Flexible Plans
 
 
 
- All plans include a dedicated creative team with a vast range of capabilities, project managers who serve as single points of contact, same-day turnarounds when needed, and of course, access to our project management application.
+ All plans include a dedicated creative team with a vast range of capabilities, project managers who serve as single points of contact, same-day turnarounds when needed, and of course, access to our project management application. [Click Here](https://gumroad.com/l/opbDH)
   
   | Package  |      What you get |   Pricing |
 | ------------- | :-----------: | -----: |
