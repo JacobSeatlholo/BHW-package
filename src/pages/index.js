@@ -23,7 +23,7 @@ import React from 'react';
      imageUrl: 'img/undraw_docusaurus_tree.svg',
      description: (
        <>
-         Let us help you add a little creative magic to your social media profiles and brand identity through our specialized brand solution.
+         Let us help you add a little creative magic to your social media profiles and brand identity through our specialized brand solutions.
        </>
      ),
    },
