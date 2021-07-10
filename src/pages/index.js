@@ -32,7 +32,7 @@ import React from 'react';
      imageUrl: 'img/undraw_docusaurus_react.svg',
      description: (
        <>
-         Get a fully stacked team and tackle your organisations end to end design needs.
+         Get a fully stacked team and tackle your organisations end to end design needs.[Click Here](https://gumroad.com/l/opbDH)
        </>
      ),
    },
