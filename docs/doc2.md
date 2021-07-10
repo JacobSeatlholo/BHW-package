@@ -59,9 +59,9 @@ How can we help you?
 
 If you would like an estimate on a project or would like to discuss or would like to discuss your new upcoming project, receive on-going support when you need it most. We have the following few channels for contact:
 
-[@Hustlebusiness](https://twitter.com/HustleBusiness) on Twitter
-[@HustlebusinessWorldwide](https://www.facebook.com/HustlebusinessWorldwide) on Facebook
-[Click here](https://bit.ly/business-hustle) for our contact form 
+[@Hustlebusiness](https://twitter.com/HustleBusiness) on Twitter.<br>
+[@HustlebusinessWorldwide](https://www.facebook.com/HustlebusinessWorldwide) on Facebook.
+[Click here](https://bit.ly/business-hustle) for our contact form. 
 
 Alternatively, email us at team@business-hustle.co
 
