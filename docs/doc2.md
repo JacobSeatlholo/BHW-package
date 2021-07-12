@@ -57,7 +57,7 @@ Artificial intelligence (AI) is the ability of machines to interpret data and ac
 
 How can we help you?
 
-If you would like an estimate on a project or would like to discuss a new upcoming project, we have the following few channels for contact:
+If you would like an estimate on a project or would like to discuss a new upcoming project, we have the following channels for contact:
 
 [@Hustlebusiness](https://twitter.com/HustleBusiness) on Twitter.
 [@HustlebusinessWorldwide](https://www.facebook.com/HustlebusinessWorldwide) on Facebook.
