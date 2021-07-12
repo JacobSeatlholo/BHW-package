@@ -63,7 +63,7 @@ If you would like an estimate on a project or would like to discuss a new upcomi
 [@HustlebusinessWorldwide](https://www.facebook.com/HustlebusinessWorldwide) on Facebook.
 [Click here](https://bit.ly/business-hustle) for our contact form. 
 
-Alternatively, email us at team@business-hustle.co and receive on-going support when you need it most. 
+Alternatively, give us a call on +27 11 083 8552 or email us at team@business-hustle.co and receive on-going support when you need it most. 
 
 
 
