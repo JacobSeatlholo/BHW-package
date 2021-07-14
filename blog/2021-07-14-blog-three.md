@@ -1,6 +1,6 @@
 ---
 title: MachineLearning used in business?
-author: Ronald van Loon
+author: Anthony James
 author_title: What is machine learning and how can it be used in business?
 author_url: https://www.linkedin.com/posts/ajjames_smart-innovation-clean-hands-clean-phone-activity-6821021664864686080-bEmL
 author_image_url: https://media-exp3.licdn.com/dms/image/C4D03AQGsB7dS2_7Cmw/profile-displayphoto-shrink_200_200/0/1599917193493?e=1631750400&v=beta&t=Rr2B5cN5NB0WDikQCMJ4VTCwaIsQsFk4gv0c22_6TfM
