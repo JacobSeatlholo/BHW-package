@@ -107,7 +107,7 @@ module.exports = {
     locales: ['en', 'fr'],
   
   
-      {
+      
           type: 'localeDropdown',
           position: 'left',
         },
