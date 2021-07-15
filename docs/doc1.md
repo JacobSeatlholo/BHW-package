@@ -117,7 +117,7 @@ https://learnui.design/index.html - Learn UI design for free. ![Free](https://im
 
 ## Payment Integrations 
 
-See challenges in a new light with accurate [Project Management.](doc3.md) and Custom decision support with our free resources. 
+See challenges in a new light with accurate [Project Management.](mdx.md) and Custom decision support with our free resources. 
 
 [Fraudlabspro.](https://www.fraudlabspro.com/) - Help merchants to prevent payment fraud and chargebacks. Free Micro Plan available with 500 queries/month. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 
