@@ -112,7 +112,7 @@ module.exports = {
           position: 'left',
         },
         // ...
-      ],
+     
     },
   },
   // ...
