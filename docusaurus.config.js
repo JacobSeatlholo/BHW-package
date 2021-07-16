@@ -65,7 +65,7 @@ module.exports = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
+              label: 'Latest News',
               to: 'blog',
             },
             {
