@@ -2,7 +2,7 @@
 id: doc2
 title: Our Story
 ---
-Business Hustle Ltd is a trademark of Simple eternity holdings (PTY) LTD a company registered and incorporated in the Republic of South Africa.
+Business Hustle is a product of Simple eternity holdings (PTY) LTD a company registered and incorporated in the Republic of South Africa.
 
 ## What We Offer
 
