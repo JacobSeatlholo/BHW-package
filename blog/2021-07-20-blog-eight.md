@@ -4,7 +4,7 @@ author: James Gingerich
 author_title: Entrepreneur
 author_url: https://twitter.com/jamesvgingerich/status/1416606905569447936
 author_image_url: https://pbs.twimg.com/profile_images/692168521/james_profile_400x400.jpg
-tags: [Machine Learning]
+tags: [Machine Learning,Healthtech]
 description: Smart masks that can translate languages.
 image: https://pbs.twimg.com/profile_images/692168521/james_profile_400x400.jpg
 hide_table_of_contents: false
