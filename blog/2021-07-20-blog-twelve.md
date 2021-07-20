@@ -4,7 +4,7 @@ author: James Gingerich
 author_title: Entrepreneur
 author_url: https://twitter.com/jamesvgingerich/status/1401316905915461634
 author_image_url: https://pbs.twimg.com/profile_images/692168521/james_profile_400x400.jpg
-tags: [Artificial Reality,Augmented Reality, Education]
+tags: [Artificial Reality,Augmented Reality, Education,Healthtech]
 description: The worlds first AR and VR notebook
 image: https://pbs.twimg.com/profile_images/692168521/james_profile_400x400.jpg
 hide_table_of_contents: false
