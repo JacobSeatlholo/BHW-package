@@ -1,5 +1,5 @@
 ---
-title: Machine Learning & Smart masks 
+title: Machine Learning & smart masks 
 author: James Gingerich
 author_title: Entrepreneur
 author_url: https://twitter.com/jamesvgingerich/status/1416606905569447936
