@@ -1,12 +1,12 @@
 ---
-title: Welcome Docusaurus v2
-author: Joel Marcey
-author_title: Co-creator of Docusaurus 1
-author_url: https://github.com/JoelMarcey
-author_image_url: https://graph.facebook.com/611217057/picture/?height=200&width=200
+title: Making procedural pipes with geometry nodes
+author: TomeKs
+author_title: Game developer
+author_url: https://twitter.com/_TomekS/status/1416384983594258434
+author_image_url: https://pbs.twimg.com/profile_images/1120176940566990848/vtfKAfWv_400x400.png
 tags: [hello, docusaurus-v2]
 description: This is my first post on Docusaurus 2.
-image: https://i.imgur.com/mErPwqL.png
+image: https://pbs.twimg.com/profile_images/1120176940566990848/vtfKAfWv_400x400.png
 hide_table_of_contents: false
 ---
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I made procedural pipes driven by a polyline using Blender&#39;s geometry nodes. This is a very popular exercise in Houdini, was curious if it&#39;s doable in Blender (3.0 alpha), and with a few &quot;dirty&quot; tricks it most definitely is. <a href="https://twitter.com/hashtag/blender?src=hash&amp;ref_src=twsrc%5Etfw">#blender</a> <a href="https://twitter.com/hashtag/geometrynodes?src=hash&amp;ref_src=twsrc%5Etfw">#geometrynodes</a> <a href="https://twitter.com/hashtag/screenshotsaturday?src=hash&amp;ref_src=twsrc%5Etfw">#screenshotsaturday</a> <a href="https://t.co/5ZqSoFnjUY">pic.twitter.com/5ZqSoFnjUY</a></p>&mdash; TomekS (@_TomekS) <a href="https://twitter.com/_TomekS/status/1416384983594258434?ref_src=twsrc%5Etfw">July 17, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
