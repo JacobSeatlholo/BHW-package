@@ -1,5 +1,5 @@
 ---
-title: SA needs an intellectual revolution
+title: SA in need of an intellectual revolution
 author: Monde Lot Ndlovu
 author_title: Head of Advocacy & Thought-Leadership at Black Management Forum
 author_url: https://www.iol.co.za/news/opinion/sa-is-in-need-of-an-intellectual-revolution-0a93d6e2-181b-49f7-84de-caaac174d09a
