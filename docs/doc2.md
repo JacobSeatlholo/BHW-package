@@ -18,7 +18,7 @@ We help companies use agile+critical+adaptive futuristic thinking to build solid
 src="https://www.youtube.com/embed/wxl6E0czWbw">
 </iframe>
 
-Our goal is to customer demands & circumstances in real-time. We offer data driven services that increase overall digital marketing efficiency within the organisational campaigns. We continuously listen to our customers & act proactively to anticipate needs.
+Our goal is to keep up to customer demands & circumstances in real-time. We offer data driven services that increase overall digital marketing efficiency within the organisational campaigns. We continuously listen to our customers & act proactively to anticipate needs.
 
 **What We Can Do For You?**
 
