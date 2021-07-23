@@ -32,7 +32,7 @@ import React from 'react';
      imageUrl: 'img/undraw_docusaurus_react.svg',
      description: (
        <>
-         We are here to provide you with innovative and affordable digital marketing and web development services.Get a fully stacked team and tackle your organisations end to end design needs.
+         Get a fully stacked team and tackle your organisations end to end design needs.
        </>
      ),
    },
