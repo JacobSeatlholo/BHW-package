@@ -5,7 +5,7 @@ title: Our Flexible Plans
 
 
 
- All plans include a dedicated creative team with a vast range of capabilities, project managers who serve as single points of contact, same-day turnarounds when needed, and of course, access to our project management application. [Click Here](https://bit.ly/business-hustle) to tell us about your upcoming project.
+We are here to provide you with innovative yet affordable digital marketing and web development services. All plans include a dedicated creative team with a vast range of capabilities, project managers who serve as single points of contact, same-day turnarounds when needed, and of course, access to our project management application. [Click Here](https://bit.ly/business-hustle) to tell us about your upcoming project.
   
   | Package  |      What you get |   Pricing |
 | ------------- | :-----------: | -----: |
