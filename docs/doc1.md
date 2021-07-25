@@ -73,13 +73,18 @@ Many entrepreneurs and creatives are working remotely and need to get online in 
  
 [SaasLandingPage](https://saaslandingpage.com) - Discover the best 600 landing page examples created by top-class SaaS companies, and get ideas and inspiration for your next design project. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
+[Behence](https://www.behance.net/) - Design projects featured by different creators. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+[Design Vault](https://designvault.io/) - A library of screenshots and patterns from real world digital products. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
 ## Email
 
 https://buttondown.email - Newsletter service. Up to 1,000 subscribers free. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 https://forwardemail.net/en - Email forwarding for custom domains. Create and forward an unlimited amount of email addresses with your domain name. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
-https://www.sparkpost.com - First 500 emails/month free. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)![Paid](https://img.shields.io/badge/-Paid-blue)
+https://www.sparkpost.com - First 500 emails/month free. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
+
 
 ## Website hosting 
 
@@ -193,6 +198,8 @@ Project management is all about transforming your service delivery in order to d
 [LettersPro](https://www.letterspro.com) - One of the leading providers of sample letters on the Internet. You will have access to thousands of FREE letter samples and memo templates. 100 new letter samples every month. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 [Papersizes](https://papersizes.io/) - The best resource for International Paper Sizes, Dimensions & Formats. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+[Really Good Emails](https://reallygoodemails.com/) - A site offering users loads of company e-mails from customer service to marketing. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 ## Copywriting
 
