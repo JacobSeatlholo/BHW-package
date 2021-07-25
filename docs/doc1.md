@@ -96,6 +96,11 @@ https://www.000webhost.com - Zero cost website hosting with Apache, PHP, MySQL, 
 
 https://tools.pingdom.com/#5e931005ed400000 - Pingdom offers a cost and performance monitoring tool for your website. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue) 
 
+## Downloadable Design Software 
+
+Free downloadable software used for UI, photo, 3d modeling, etc. ![Business Hustle](https://img.shields.io/badge/Business-Hustle-blue)
+
+[Gimp](https://www.gimp.org/) - Free & open source image editor similar to Photoshop.
 
 ## Search Engine Optimisation 
 
@@ -200,6 +205,7 @@ Project management is all about transforming your service delivery in order to d
 [Papersizes](https://papersizes.io/) - The best resource for International Paper Sizes, Dimensions & Formats. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 [Really Good Emails](https://reallygoodemails.com/) - A site offering users loads of company e-mails from customer service to marketing. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
 
 ## Copywriting
 
