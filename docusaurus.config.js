@@ -108,7 +108,7 @@ module.exports = {
   },
   themeConfig: {
     navbar: {
-      items: [
+      items:
          baseUrl: '/',
   favicon: 'img/favicon.ico',
         {
