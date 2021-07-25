@@ -114,6 +114,7 @@ https://learnui.design/index.html - Learn UI design for free. ![Free](https://im
 
 >Download [Hustle Basics](https://gumroad.com/l/opbDH) today and find out how to tap into an unlimited amount of internet resources for you and your business
 
+[Kopywriting](https://kopywritingkourse.com/free-copywriting-course/) - Free course on copywriting
 
 ## Payment Integrations 
 
@@ -152,3 +153,13 @@ Project management is all about transforming your service delivery in order to d
 [Whereby](https://whereby.com) - With no app or installs required, and the same meeting link every time, Whereby gives you the freedom to work and manage your team from anywhere. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 [LettersPro](https://www.letterspro.com) - One of the leading providers of sample letters on the Internet. You will have access to thousands of FREE letter samples and memo templates. 100 new letter samples every month. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+## Copywriting
+
+Platforms and markets will come and go,but if you learn how to write good copy and position your offer in the marketplace you'll probably always be in business.
+
+[Swiped](https://swiped.co/) - The best copywriting inspiration 
+
+[MarketingExammples](https://marketingexamples.com/copywriting) - Marketing examples on copywriting
+
+[Stripe](https://stripe.com/en-in/atlas/guides/landing-page-copy) - Guide on copywriting for landing pages
