@@ -6,7 +6,7 @@ sidebar_label: Introduction
 
 ## What is this?
 
-Business Hustle is a complete software development solution for startups. Our goal is to give you the resources you need to jumpstart your project.
+![Business Hustle](https://img.shields.io/badge/Business-Hustle-blue)is a complete software development solution for startups. Our goal is to give you the resources you need to jumpstart your project.
 Whether you're a creative, author, designers and/or entrepreneur developing a structure or a plan of action for your business can be a daunting and expensive task.
 
 This page offers a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for you to take advantage of while building content/systems for your business.
@@ -98,7 +98,7 @@ https://tools.pingdom.com/#5e931005ed400000 - Pingdom offers a cost and performa
 
 ## Downloadable Design Software 
 
-Free downloadable software used for UI, photo, 3d modeling, etc. ![Business Hustle](https://img.shields.io/badge/Business-Hustle-blue)
+Free downloadable software used for UI, photo, 3d modeling, etc.
 
 [Gimp](https://www.gimp.org/) - Free & open source image editor similar to Photoshop.
 
