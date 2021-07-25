@@ -51,6 +51,22 @@ Many entrepreneurs and creatives are working remotely and need to get online in 
 
 [Paaatterns](https://products.ls.graphics/paaatterns/) - Free collection of gorgeous patterns for all vector formats ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
+[404 Illustration](https://error404.fun/) - Free illustrations for 404 pages. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+[Absurd Design](https://absurd.design/) - Free surrealist illustrations for designers and developers. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+[Animaticons](https://animaticons.co) - Beautiful, customizable animated GIF icons. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+[Blush](https://blush.design/) - Free customizable illustrations with Figma Plugin. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+[Pixeltrue](hhttps://www.pixeltrue.com/illustrations) - Free animated illustrations. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+[Sketch Valley](https://sketchvalley.com) - Download free PNG, SVG or AI file. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+[Pattern Monster](https://pattern.monster) - A simple online pattern generator to create repeatable SVG patterns. Speed up your website without compromising on image quality. Perfect for website backgrounds, apparel, branding, packaging design and more. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+[Dimensions](https://www.dimensions.com/) - Dimensions.com is an ongoing reference database of dimensioned drawings documenting the standard measurements and sizes of the everyday objects and spaces. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
 
 ## Email
 
