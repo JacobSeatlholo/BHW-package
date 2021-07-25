@@ -125,6 +125,14 @@ https://appfleet.com - appfleet is an edge platform that allows its users to dep
 
 https://www.docsapp.io - Easiest way to deploy and publish documentation. Completely free for Open Source.  ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 
+[QR Code Generator] - Use this tool to easily create a QR code for your project. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+[Shields](https://shields.io/) - Create badges with your own customization. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+[Over API](https://overapi.com/) - A collection of all software development cheat codes. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+[DevDocs](https://devdocs.io/) - This tool combines multiple API documentations in a fast, organized, and searchable interface. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
 ## Education & Training
 
 [edx](https://www.edx.org/) - A series of University-level courses from Harvard, MIT, Wharton, and more. ![Free](https://img.shields.io/badge/-Free-brightgreen)
@@ -176,6 +184,8 @@ Project management is all about transforming your service delivery in order to d
 [Whereby](https://whereby.com) - With no app or installs required, and the same meeting link every time, Whereby gives you the freedom to work and manage your team from anywhere. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 [LettersPro](https://www.letterspro.com) - One of the leading providers of sample letters on the Internet. You will have access to thousands of FREE letter samples and memo templates. 100 new letter samples every month. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+[Papersizes](https://papersizes.io/) - The best resource for International Paper Sizes, Dimensions & Formats. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 ## Copywriting
 
