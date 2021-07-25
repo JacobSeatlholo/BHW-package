@@ -43,7 +43,7 @@ Many entrepreneurs and creatives are working remotely and need to get online in 
 
 [Undraw](https://undraw.co) - "MIT licensed illustrations for every project you can imagine and create. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
-[Gratisography](https://www.gratisography.com - Photographer Ryan McGuire provides this collection of high-resolution pictures for free. You can use them on your personal or commercial project free of copyright restrictions. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+[Gratisography](https://www.gratisography.com) - Photographer Ryan McGuire provides this collection of high-resolution pictures for free. You can use them on your personal or commercial project free of copyright restrictions. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 [The Noun Project](https://thenounproject.com) - Search for a noun and find an icon as simple as that. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
