@@ -164,7 +164,7 @@ https://www.docsapp.io - Easiest way to deploy and publish documentation. Comple
 
 https://learnui.design/index.html - Learn UI design for free. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
->Download [Hustle Basics](https://gumroad.com/l/opbDH) today and find out how to tap into an unlimited amount of internet resources for you and your business![Business Hustle](https://img.shields.io/badge/Business-Hustle-blue) 
+>Download [Hustle Basics](https://gumroad.com/l/opbDH) by  ![Business Hustle](https://img.shields.io/badge/Business-Hustle-blue)  today and find out how to tap into an unlimited amount of internet resources for you and your business
 
 [Kopywriting](https://kopywritingkourse.com/free-copywriting-course/) - Free course on copywriting. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
