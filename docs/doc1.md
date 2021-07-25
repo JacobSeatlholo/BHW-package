@@ -67,6 +67,11 @@ Many entrepreneurs and creatives are working remotely and need to get online in 
 
 [Dimensions](https://www.dimensions.com/) - Dimensions.com is an ongoing reference database of dimensioned drawings documenting the standard measurements and sizes of the everyday objects and spaces. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
+## Web Design Inspirations 
+
+[Awwwards](https://www.awwwards.com) - The awards of design, creativity and innovation on the internet. This website rates and collects the best websites in the world in UI ![Free](https://img.shields.io/badge/-Free-brightgreen)
+ 
+[SaasLandingPage](https://saaslandingpage.com) - Discover the best 600 landing page examples created by top-class SaaS companies, and get ideas and inspiration for your next design project. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 ## Email
 
@@ -74,7 +79,7 @@ https://buttondown.email - Newsletter service. Up to 1,000 subscribers free. ![F
 
 https://forwardemail.net/en - Email forwarding for custom domains. Create and forward an unlimited amount of email addresses with your domain name. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
-https://www.sparkpost.com - First 500 emails/month free. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
+https://www.sparkpost.com - First 500 emails/month free. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)![Paid](https://img.shields.io/badge/-Paid-blue)
 
 ## Website hosting 
 
@@ -125,7 +130,7 @@ https://appfleet.com - appfleet is an edge platform that allows its users to dep
 
 https://www.docsapp.io - Easiest way to deploy and publish documentation. Completely free for Open Source.  ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
 
-[QR Code Generator] - Use this tool to easily create a QR code for your project. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+[QR Code Generator](https://markodenic.com/tools/qr-code-generator/) - Use this tool to easily create a QR code for your project. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 [Shields](https://shields.io/) - Create badges with your own customization. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
@@ -146,6 +151,8 @@ https://learnui.design/index.html - Learn UI design for free. ![Free](https://im
 [Youtube](https://www.youtube.com/watch?v=IqmrNUoiy7g&feature=youtu.be) - A lesson in Supply chain management by Steve Miles and John Williams, MIT. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 [Techstars](https://toolkit.techstars.com/master-your-pitch) - Master your pitch and improve your communication skills. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+[Frontend Mentor](https://www.frontendmentor.io/) - Practice your coding skills using real-world UI Challenges using HTML, CSS and Javascript. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 ## Payment Integrations 
 
