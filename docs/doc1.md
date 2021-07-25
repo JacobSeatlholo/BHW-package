@@ -6,7 +6,7 @@ sidebar_label: Introduction
 
 ## What is this?
 
-![Business Hustle](https://img.shields.io/badge/Business-Hustle-blue)  is a complete software development solution for startups. Our goal is to give you the resources you need to jumpstart your project.
+Business Hustle is a complete software development solution for startups. Our goal is to give you the resources you need to jumpstart your project.
 Whether you're a creative, author, designers and/or entrepreneur developing a structure or a plan of action for your business can be a daunting and expensive task.
 
 This page offers a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for you to take advantage of while building content/systems for your business.
@@ -232,3 +232,4 @@ Platforms and markets will come and go,but if you learn how to write good copy a
 [Medium](https://t.co/Es0aylfd22?amp=1) - An easy to follow roadmap and resources to help get started and upskill in product management ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 
+![Business Hustle](https://img.shields.io/badge/Business-Hustle-blue) 
