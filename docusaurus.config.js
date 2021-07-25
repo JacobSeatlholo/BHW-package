@@ -101,8 +101,8 @@ module.exports = {
     ],
   ],
 };
-module.exports =
-  {{i18n: {
+module.exports = {
+  i18n: {
     defaultLocale: 'en',
     locales: ['en', 'fr'],
   },
