@@ -105,18 +105,15 @@ module.exports = {
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'fr'],
-  },
-  themeConfig: {
-    navbar: {
-      items: [
-  favicon: 'img/favicon.ico',
-        {
-          type: 'localeDropdown',
-          position: 'left',
-        },
-        // ...
-     ] ,
+    localeConfigs: {
+      en: {
+        label: 'English',
+        direction: 'ltr',
+      },
+      fr: {
+        label: 'Français',
+        direction: 'ltr',
+      },
     },
   },
-  // ...
 };
