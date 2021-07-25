@@ -25,7 +25,11 @@ Many entrepreneurs and creatives are working remotely and need to get online in 
 
 [Cool Backgrounds](https://coolbackgrounds.io) - Gain access to a collection of tools to create compelling, colorful images for blogs, social media, and websites. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
+[RemoveBG](https://www.remove.bg/) - Remove image bckgrounds. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
 [Humaaans](https://www.humaaans.com/) - Library of editable people illustrations. Free for both commercial and personal use. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+[Cartoon Pho](https://cartoon.pho.to) - Turn your photos into cartoons for your website or presentations. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 [Gradienta](https://gradienta.io) - Discover pure CSS gradient backgrounds for your next website or app, as a JPG image or CSS code with no attribute required. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
@@ -37,11 +41,15 @@ Many entrepreneurs and creatives are working remotely and need to get online in 
 
 [Photopea](https://www.photopea.com) - A Free, Advanced online design editor with Adobe Photoshop UI supporting PSD, XCF & Sketch formats (Adobe Photoshop, Gimp and Sketch App). ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
+[Get Waves](https://getwaves.io) - An SVG wave generator to make unique SVG waves for web design. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
 [IconMonstr](https://iconmonstr.com) - Black and white themed minimal icons with customizeable thickness. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 [Pixelite](https://pixelite.com) - Create and edit engaging and unique graphics and images online. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 [Undraw](https://undraw.co) - "MIT licensed illustrations for every project you can imagine and create. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+[Unscreen](https://www.unscreen.com/) - Remove Video Background 100% Automatically. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 [Gratisography](https://www.gratisography.com) - Photographer Ryan McGuire provides this collection of high-resolution pictures for free. You can use them on your personal or commercial project free of copyright restrictions. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
@@ -62,6 +70,8 @@ Many entrepreneurs and creatives are working remotely and need to get online in 
 [Pixeltrue](hhttps://www.pixeltrue.com/illustrations) - Free animated illustrations. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 [Sketch Valley](https://sketchvalley.com) - Download free PNG, SVG or AI file. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+[Smart upscaler](https://icons8.com/upscaler) - Upscale images by 2-4x resolution. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 [Pattern Monster](https://pattern.monster) - A simple online pattern generator to create repeatable SVG patterns. Speed up your website without compromising on image quality. Perfect for website backgrounds, apparel, branding, packaging design and more. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
@@ -158,6 +168,12 @@ https://www.docsapp.io - Easiest way to deploy and publish documentation. Comple
 
 [DevDocs](https://devdocs.io/) - This tool combines multiple API documentations in a fast, organized, and searchable interface. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
+[Octopus](https://octopus.do/) - Sitemap builder tool. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue)
+
+[Clickminded](https://www.clickminded.com/button-generator/) - A call to action button creator. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+
+
 ## Education & Training
 
 [edx](https://www.edx.org/) - A series of University-level courses from Harvard, MIT, Wharton, and more. ![Free](https://img.shields.io/badge/-Free-brightgreen)
@@ -216,6 +232,13 @@ Project management is all about transforming your service delivery in order to d
 
 [Really Good Emails](https://reallygoodemails.com/) - A site offering users loads of company e-mails from customer service to marketing. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
+[Visme](https://www.visme.co) - Create presentations, infographics and more. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+[Diagrams.net](https://www.diagrams.net) - Diagram software and Flowchart maker. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+[Map in Seconds](http://mapinseconds.com/) - Visualize your data easily. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+[Whiteboard](https://witeboard.com/) - Online drawing tool. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 ## Copywriting
 
@@ -230,6 +253,3 @@ Platforms and markets will come and go,but if you learn how to write good copy a
 ## Product Management
 
 [Medium](https://t.co/Es0aylfd22?amp=1) - An easy to follow roadmap and resources to help get started and upskill in product management ![Free](https://img.shields.io/badge/-Free-brightgreen)
-
-
-
