@@ -102,15 +102,15 @@ module.exports = {
   ],
 };
 module.exports =
-  title: 'Business Hustle',
-  tagline: 'Let us help you grow your business',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
-  favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
-  themeConfig: {
-    navbar: {
+  title 'Business Hustle',
+  tagline 'Let us help you grow your business',
+  url 'https://your-docusaurus-test-site.com',
+  baseUrl '/',
+  favicon 'img/favicon.ico',
+  organizationName 'facebook', // Usually your GitHub org/user name.
+  projectName 'docusaurus', // Usually your repo name.
+  themeConfig {
+    navbar {
       title: 'Business Hustle',
       logo: {
         alt: 'My Site Logo',
