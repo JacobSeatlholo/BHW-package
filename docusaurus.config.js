@@ -108,15 +108,14 @@ module.exports = {
   },
   themeConfig: {
     navbar: {
-      items:
-         baseUrl: '/',
+      items: [
   favicon: 'img/favicon.ico',
         {
           type: 'localeDropdown',
           position: 'left',
         },
         // ...
-      ,
+     ] ,
     },
   },
   // ...
