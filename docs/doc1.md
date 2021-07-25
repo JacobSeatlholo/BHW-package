@@ -6,7 +6,7 @@ sidebar_label: Introduction
 
 ## What is this?
 
-![Business Hustle](https://img.shields.io/badge/Business-Hustle-blue)is a complete software development solution for startups. Our goal is to give you the resources you need to jumpstart your project.
+![Business Hustle](https://img.shields.io/badge/Business-Hustle-blue)  is a complete software development solution for startups. Our goal is to give you the resources you need to jumpstart your project.
 Whether you're a creative, author, designers and/or entrepreneur developing a structure or a plan of action for your business can be a daunting and expensive task.
 
 This page offers a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for you to take advantage of while building content/systems for your business.
@@ -100,7 +100,17 @@ https://tools.pingdom.com/#5e931005ed400000 - Pingdom offers a cost and performa
 
 Free downloadable software used for UI, photo, 3d modeling, etc.
 
-[Gimp](https://www.gimp.org/) - Free & open source image editor similar to Photoshop.
+[Gimp](https://www.gimp.org/) - Free & open source image editor similar to Photoshop. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+[Gravit Designer](https://www.designer.io/en/) - This tool is a full-featured vector graphic design app that works on ALL platforms. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+[Be Funky](https://www.befunky.com/features/graphic-designer/) - Online design program software. ![Free](https://img.shields.io/badge/-Free-brightgreen) ![Paid](https://img.shields.io/badge/-Paid-blue) 
+
+[Krita](https://krita.org/en/download/krita-desktop/) - A sketching and painting program designed for digital artists. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+[GUI Prototyping](https://pencil.evolus.vn) - GUI prototyping software. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+[Color Picker](https://colorpicker.fr) - Open Source colors software: Retrieve, manipulate and store your colors easily. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 ## Search Engine Optimisation 
 
