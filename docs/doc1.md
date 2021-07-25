@@ -19,36 +19,37 @@ Many entrepreneurs and creatives are working remotely and need to get online in 
 
 [Canva](https://www.canva.com) - 8,000+ free templates and thousands of free photos. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
-https://www.figma.com - Generate, edit and publish beautiful websites and landing pages for your startup. The Free tier allow you to have one website, fully customizable and published on the web. ![Free](https://img.shields.io/badge/-Free-brightgreen)![Paid](https://img.shields.io/badge/-Paid-blue)
+[Figma](https://www.figma.com) - Generate, edit and publish beautiful websites and landing pages for your startup. The Free tier allow you to have one website, fully customizable and published on the web. ![Free](https://img.shields.io/badge/-Free-brightgreen)![Paid](https://img.shields.io/badge/-Paid-blue)
 
-https://www.pexels.com - Free stock photos for commercial use. This has a free API that allows you to search photos by keywords. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+[Pixels](https://www.pexels.com) - Free stock photos for commercial use. This has a free API that allows you to search photos by keywords. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
-https://coolbackgrounds.io - Gain access to a collection of tools to create compelling, colorful images for blogs, social media, and websites. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+[Cool Backgrounds](https://coolbackgrounds.io) - Gain access to a collection of tools to create compelling, colorful images for blogs, social media, and websites. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 [Humaaans](https://www.humaaans.com/) - Library of editable people illustrations. Free for both commercial and personal use. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
-https://gradienta.io - Discover pure CSS gradient backgrounds for your next website or app, as a JPG image or CSS code with no attribute required. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+[Gradienta](https://gradienta.io) - Discover pure CSS gradient backgrounds for your next website or app, as a JPG image or CSS code with no attribute required. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
-https://colorhunt.co - Color Hunt is an open platform for color inspiration with thousands of trendy hand-picked color palettes. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+[Colorhunt](https://colorhunt.co) - Color Hunt is an open platform for color inspiration with thousands of trendy hand-picked color palettes. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
-https://palette.ninja - Design harmonious color schemes in seconds with Palette Ninja. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+[Palette Ninja](https://palette.ninja) - Design harmonious color schemes in seconds with Palette Ninja. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
-https://stripesgenerator.com - Stripes generator for your website. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+[Stripes Generator](https://stripesgenerator.com) - Stripes generator for your website. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
-https://www.photopea.com - A Free, Advanced online design editor with Adobe Photoshop UI supporting PSD, XCF & Sketch formats (Adobe Photoshop, Gimp and Sketch App). ![Free](https://img.shields.io/badge/-Free-brightgreen)
+[Photopea](https://www.photopea.com) - A Free, Advanced online design editor with Adobe Photoshop UI supporting PSD, XCF & Sketch formats (Adobe Photoshop, Gimp and Sketch App). ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
-https://iconmonstr.com - Black and white themed minimal icons with customizeable thickness. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+[IconMonstr](https://iconmonstr.com) - Black and white themed minimal icons with customizeable thickness. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
-https://pixelite.com - Create and edit engaging and unique graphics and images online. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+[Pixelite](https://pixelite.com) - Create and edit engaging and unique graphics and images online. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
-(https://undraw.co) - "MIT licensed illustrations for every project you can imagine and create. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+[Undraw](https://undraw.co) - "MIT licensed illustrations for every project you can imagine and create. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
-https://www.gratisography.com - Photographer Ryan McGuire provides this collection of high-resolution pictures for free. You can use them on your personal or commercial project free of copyright restrictions. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+[Gratisography](https://www.gratisography.com - Photographer Ryan McGuire provides this collection of high-resolution pictures for free. You can use them on your personal or commercial project free of copyright restrictions. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
-https://thenounproject.com - Search for a noun and find an icon as simple as that. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+[The Noun Project](https://thenounproject.com) - Search for a noun and find an icon as simple as that. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
-[UI Design Daily](https://uidesigndaily.com/) - A
+[UI Design Daily](https://uidesigndaily.com/) - Fantastic UI Components of all types.![Free](https://img.shields.io/badge/-Free-brightgreen)
 
+[Paaatterns](https://products.ls.graphics/paaatterns/) - Free collection of gorgeous patterns for all vector formats ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 
 ## Email
