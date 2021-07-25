@@ -101,19 +101,22 @@ module.exports = {
     ],
   ],
 };
-module.exports = {
+,module.exports = {
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'fr'],
-    localeConfigs: {
-      en: {
-        label: 'English',
-        direction: 'ltr',
-      },
-      fr: {
-        label: 'Français',
-        direction: 'ltr',
-      },
+  },
+  themeConfig: {
+    navbar: {
+      items: [
+  favicon: 'img/favicon.ico',
+        
+          type: 'localeDropdown',
+          position: 'left',
+        },
+        // ...
+     ] ,
     },
   },
+  // ...
 };
