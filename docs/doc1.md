@@ -47,6 +47,8 @@ https://www.gratisography.com - Photographer Ryan McGuire provides this collecti
 
 https://thenounproject.com - Search for a noun and find an icon as simple as that. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
+[UI Design Daily](https://uidesigndaily.com/) - A
+
 
 
 ## Email
@@ -114,7 +116,11 @@ https://learnui.design/index.html - Learn UI design for free. ![Free](https://im
 
 >Download [Hustle Basics](https://gumroad.com/l/opbDH) today and find out how to tap into an unlimited amount of internet resources for you and your business
 
-[Kopywriting](https://kopywritingkourse.com/free-copywriting-course/) - Free course on copywriting
+[Kopywriting](https://kopywritingkourse.com/free-copywriting-course/) - Free course on copywriting. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+[Youtube](https://www.youtube.com/watch?v=IqmrNUoiy7g&feature=youtu.be) - A lesson in Supply chain management by Steve Miles and John Williams, MIT. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+[Techstars](https://toolkit.techstars.com/master-your-pitch) - Master your pitch and improve your communication skills. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
 ## Payment Integrations 
 
@@ -158,8 +164,14 @@ Project management is all about transforming your service delivery in order to d
 
 Platforms and markets will come and go,but if you learn how to write good copy and position your offer in the marketplace you'll probably always be in business.
 
-[Swiped](https://swiped.co/) - The best copywriting inspiration 
+[Swiped](https://swiped.co/) - The best copywriting inspiration ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
-[MarketingExammples](https://marketingexamples.com/copywriting) - Marketing examples on copywriting
+[MarketingExammples](https://marketingexamples.com/copywriting) - Marketing examples on copywriting ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
-[Stripe](https://stripe.com/en-in/atlas/guides/landing-page-copy) - Guide on copywriting for landing pages
+[Stripe](https://stripe.com/en-in/atlas/guides/landing-page-copy) - Guide on copywriting for landing pages ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+## Product Management
+
+[Medium](https://t.co/Es0aylfd22?amp=1) - An easy to follow roadmap and resources to help get started and upskill in product management ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
+
