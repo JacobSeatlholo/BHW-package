@@ -101,7 +101,7 @@ module.exports = {
     ],
   ],
 };
-module.exports = {
+module.exports =
   title: 'Business Hustle',
   tagline: 'Let us help you grow your business',
   url: 'https://your-docusaurus-test-site.com',
