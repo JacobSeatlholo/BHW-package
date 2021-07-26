@@ -172,6 +172,8 @@ https://www.docsapp.io - Easiest way to deploy and publish documentation. Comple
 
 [Clickminded](https://www.clickminded.com/button-generator/) - A call to action button creator. ![Free](https://img.shields.io/badge/-Free-brightgreen)
 
+[HaveIbeenPwned](https://haveibeenpwned.com) - Check to see if your email or phone is in a data breach. ![Free](https://img.shields.io/badge/-Free-brightgreen)
+
 
 
 ## Education & Training
