@@ -1,6 +1,6 @@
 {
   "name": "docusaurus-2",
-  "version": "0.0.0",
+  "version": "beta.4",
   "private": true,
   "scripts": {
     "start": "docusaurus start",
@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@docusaurus/core": "^2.0.0-beta.4",
-    "@docusaurus/preset-classic": "^2.0.0-alpha.54",
+    "@docusaurus/preset-classic": "^2.0.0-beta.4",
     "classnames": "^2.2.6",
     "react": "^16.8.4",
     "react-dom": "^16.8.4"
