@@ -65,7 +65,7 @@ module.exports = {
           title: 'More',
           items: [
             {
-              label: 'Latest News',
+              label: 'Blog',
               to: 'blog',
             },
             {
@@ -98,6 +98,6 @@ module.exports = {
           customCss: require.resolve('./src/css/custom.css'),
         },
       },
-    ],
-  ],
-};
+     ],
+   ],
+ };
