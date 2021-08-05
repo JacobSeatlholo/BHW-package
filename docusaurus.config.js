@@ -19,13 +19,13 @@ module.exports = {
           activeBasePath: 'docs',
            label: 'Resources',
            position: 'left',
+          },
+          {to: 'blog', label: 'Updates', position: 'left'},
+          {
+            href: 'https://businesshustleworldwideltd.vercel.app/docs/mdx',
+            label: 'Project Management',
+           position: 'right',
          },
-         {to: 'blog', label: 'Updates', position: 'left'},
-         {
-           href: 'https://businesshustleworldwideltd.vercel.app/docs/mdx',
-           label: 'Project Management',
-          position: 'right',
-        },
       ],
     },
     footer: {
@@ -98,6 +98,6 @@ module.exports = {
           customCss: require.resolve('./src/css/custom.css'),
         },
       },
-     ],
-   ],
- };
+    ],
+  ],
+};
