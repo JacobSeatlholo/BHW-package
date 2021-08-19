@@ -1,14 +1,14 @@
 module.exports = {
   title: 'Business Hustle',
   tagline: 'Let us help you grow your business',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://bhw-d2.vercel.app',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  projectName: 'BHW', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Business Hustle',
+      title: 'Business Hustle ©',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -17,29 +17,29 @@ module.exports = {
         {
           to: 'docs/doc1',
           activeBasePath: 'docs',
-           label: 'Resources',
-           position: 'left',
-          },
-          {to: 'blog', label: 'Updates', position: 'left'},
-          {
-            href: 'https://businesshustleworldwideltd.vercel.app/docs/mdx',
-            label: 'Project Management',
-           position: 'right',
-         },
+          label: 'Resources',
+          position: 'left',
+        },
+        {to: 'blog', label: 'Updates', position: 'left'},
+        {
+          href: 'https://bhw-d2.vercel.app/docs/mdx',
+          label: 'Project Management',
+          position: 'right',
+        },
       ],
     },
     footer: {
       style: 'dark',
       links: [
         {
-          title: 'About us',
+          title: 'About Us',
           items: [
             {
-              label: 'Who we are?',
+              label: 'What we do',
               to: 'docs/doc1',
             },
             {
-              label: 'What we do',
+              label: 'Who we are',
               to: 'docs/doc2',
             },
           ],
@@ -65,11 +65,11 @@ module.exports = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
+              label: 'Latest News',
               to: 'blog',
             },
             {
-              label: 'Contact us',
+              label: 'Contact Us',
               href: 'https://bit.ly/business-hustle',
             },
           ],
@@ -86,13 +86,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/JacobSeatlholo/BHW-package',
+            'https://github.com/facebook/docusaurus/edit/master/website/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/JacobSeatlholo/BHW-package',
+            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
